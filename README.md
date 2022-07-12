@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://github.com/VictorInfoDev?tab=repositories">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorInfoDev&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorInfoDev&layout=compact&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorInfoDev&show_icons=true&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorInfoDev&layout=compact&theme=algolia"/>
 </div>
