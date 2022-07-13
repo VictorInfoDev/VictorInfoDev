@@ -12,11 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <a href="https://github.com/VictorInfoDev?tab=repositories">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorInfoDev&show_icons=true&theme=algolia"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorInfoDev&layout=compact&theme=algolia"/>
-</div>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Matheus Maia Alvarez&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Maia+Alvarez;I'm+17+years+old;I+from+Brasil,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
